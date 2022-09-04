@@ -1,1 +1,1 @@
-youtube-dl --config-location youtube-dl.conf
+yt-dlp --config-location yt-dlp.conf
