@@ -4,7 +4,7 @@
 
 This repo contains a config file which makes it easy to download entire youtube channels, and also update them without having to re-download existing videos.
 
-Update 2022-09: It has been a while since youtube-dl was updated, so I have updated all the commands and config to use the current most popular youtube video downloader: yt-dlp.
+Update 2022-09: It has been a while since [youtube-dl](https://github.com/ytdl-org/youtube-dl) was updated, so I have updated all the commands and config to use the current most popular youtube video downloader: [yt-dlp](https://github.com/yt-dlp/yt-dlp).
 
 # Usage
 
